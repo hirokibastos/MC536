@@ -23,7 +23,6 @@
 | | `Umesh, I. and Srinivasan, G. (2015). A study on bad code smell.`|
 | | `Walter, B., Fontana, F. A., and Ferme, V. (2018). Code smells and their collocations: A large-scale experiment on open-source systems. Journal of Systems and Software, 144:1–21.`|
 | | `Yamashita, A. and Moonen, L. (2013). Do developers care about code smells? an ex-ploratory survey. In 2013 20th Working Conference on Reverse Engineering (WCRE), pages 242–251.`|
-
 | link       | `https://drive.google.com/file/d/1Kt95VMdqupj5rm0M7IXxOnvhGSx77aCe/view` |
 | dataset | `https://bit.ly/2KNPGv5` |
 | formato | `csv` |
