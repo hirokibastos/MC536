@@ -7,8 +7,8 @@
 
 | campo | valor |
 |------------|----------------------------------------|
-| referência | `de Almeida Filho, F. G., Martins, A. D. F., Vinuto, T. d. S., Monteiro, J. M., de Sousa, I. P., de Castro Machado, J., and Rocha, L. S. (2019). Prevalence of bad smells in pl/sql projects. In Proceedings of the 27th International Conference on Program Comprehension, ICPC ’19, pages 116–121, Piscataway, NJ, USA. IEEE Press.
-Fowler, M. (2018). Refactoring: improving the design of existing code. Addison-Wesley Professional.
+| referência | `de Almeida Filho, F. G., Martins, A. D. F., Vinuto, T. d. S., Monteiro, J. M., de Sousa, I. P., de Castro Machado, J., and Rocha, L. S. (2019). Prevalence of bad smells in pl/sql projects. In Proceedings of the 27th International Conference on Program Comprehension, ICPC ’19, pages 116–121, Piscataway, NJ, USA. IEEE Press.` |
+| | `Fowler, M. (2018). Refactoring: improving the design of existing code. Addison-Wesley Professional.` |
 Karwin, B. (2010). SQL Antipatterns: Avoiding the Pitfalls of Database Programming. Pragmatic Bookshelf, 1st edition.
 Khumnin, P. and Senivongse, T. (2017). Sql antipatterns detection and database refactoring process. In 2017 18th IEEE/ACIS International Conference on Software Engineering, Artificial Intelligence, Networking and Parallel/Distributed Computing (SNPD), pages 199–205.
 Lanza, M. and Marinescu, R. (2007). Object-oriented metrics in practice: using software metrics to characterize, evaluate, and improve the design of object-oriented systems. Springer Science & Business Media.
