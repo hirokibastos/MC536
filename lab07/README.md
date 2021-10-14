@@ -4,7 +4,7 @@
 * `176573`: `Renan Hiroki Bastos`
 
 ## Modelo Lógico do Banco de Dados de Grafos
-> ![Diagrama de Orquestração](images/modelo_logico_grafos.jpeg)
+> ![Diagrama de Orquestração](images/modelo_logico_grafo.jpeg)
 
 ## Perguntas de Pesquisa/análise
 > * Pergunta 1: Locais com frequência de uso de máscara iguais possuem taxas de infecções parecidas?
