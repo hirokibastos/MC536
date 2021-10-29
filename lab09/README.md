@@ -5,7 +5,7 @@ Laboratório 09 - MC536 - Bancos de Dados Teoria e Prática, UNICAMP, 2S2021
 * `176573`: `Renan Hiroki Bastos`
 
 # Grafo de conhecimento do banco de dados
-> ![Grafo de conhecimento](images/grafo_conhecimento.png)
+![Grafo de conhecimento](images/grafo_conhecimento.png)
 
 # Perguntas
 
